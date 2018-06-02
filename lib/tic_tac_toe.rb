@@ -1,23 +1,3 @@
-Skip to content
- 
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- @Faetheon
-Sign out
-0
-0 617 Faetheon/oo-tic-tac-toe-bootcamp-prep-000
-forked from learn-co-students/oo-tic-tac-toe-bootcamp-prep-000
- Code  Pull requests 0  Projects 0  Insights  Settings
-oo-tic-tac-toe-bootcamp-prep-000/lib/tic_tac_toe.rb
-755c810  2 days ago
-@Faetheon Faetheon Done.
-@aviflombaum @Faetheon
-     
-143 lines (125 sloc)  2.56 KB
 class TicTacToe
   
   def initialize
@@ -161,16 +141,3 @@ class TicTacToe
   end
 
 end
-© 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-API
-Training
-Shop
-Blog
-About
-Press h to open a hovercard with more details.
