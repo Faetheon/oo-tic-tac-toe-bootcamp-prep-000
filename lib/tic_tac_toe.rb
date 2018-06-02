@@ -31,7 +31,7 @@ class TicTacToe
   end
   
   def valid_move?(index)
-    if position_taken?(index) == false && index < @board.length && index >= 0
+    if position_taken?(index) && index <= @board.length && index >= 0
       return true
     else
       return false
@@ -96,7 +96,7 @@ class TicTacToe
   end
   
   def play
-    turn until over? || draw?
+    turn until over?
     if draw?
       puts "Cat's Game!"
     elsif won?
