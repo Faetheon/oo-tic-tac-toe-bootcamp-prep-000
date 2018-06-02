@@ -90,7 +90,7 @@ class TicTacToe
         empty = false
       end
     }
-    if empty
+    if empty === false
       return false
     end
   end
